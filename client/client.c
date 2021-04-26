@@ -40,7 +40,6 @@ void inputClient(Client *c){
     fflush(stdin);
 }
 
-/*
 void addCart(Cart *c){
     Article art;
     strcpy(art.name, "Algo");
@@ -48,4 +47,3 @@ void addCart(Cart *c){
     strcpy(art.description, "Es algo muy lindo para regalar");
     addBack(c, art);
 }
-*/
